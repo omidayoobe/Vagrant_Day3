@@ -3,6 +3,6 @@ Vagrant.configure("2") do |config|
 
 
   config.vm.box = "ubuntu/xenial64"
-  config.vm.synced_folder "files/", "/srv/TestFolder"
-
+  #config.vm.synced_folder "files/", "/srv/TestFolder"
+  config.vm.provision :shell, path: "files/ps_results1.sh"
 end
