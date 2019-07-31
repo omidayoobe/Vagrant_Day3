@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/testfolder":{"guestpath":"/srv/testfolder","hostpath":"C:/Users/OAyoobe/Engineering3637/Week_5/Day_3/DevopsMuttablePipeline1.3/files","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/OAyoobe/Engineering3637/Week_5/Day_3/DevopsMuttablePipeline1.3","disabled":false,"__vagrantfile":true}}}
